@@ -1,5 +1,14 @@
 [
   {
+    "flag_url": "https://countryflagsapi.com/png/AUS",
+    "map_url": "https://api.tap2free.net/images/FQbC2D5CJAS5wYfRzlce.copy.png",
+    "ip": "185.126.236.242",
+    "country": "Austria",
+    "name": "Austria, Wien",
+    "status": "PRO",
+    "local": 0
+  },
+  {
     "flag_url": "https://countryflagsapi.com/png/USA",
     "map_url": "https://api.tap2free.net/images/jbIKoNVpYp2jHfnB5tvq02KI5KAsyz.png",
     "ip": "185.33.84.27",
@@ -15,15 +24,6 @@
     "country": "United States",
     "name": "USA, New York",
     "status": "FREE",
-    "local": 0
-  },
-  {
-    "flag_url": "https://countryflagsapi.com/png/AUS",
-    "map_url": "https://api.tap2free.net/images/FQbC2D5CJAS5wYfRzlce.copy.png",
-    "ip": "185.126.236.242",
-    "country": "Austria",
-    "name": "Austria, Wien",
-    "status": "PRO",
     "local": 0
   },
   {
